@@ -1,6 +1,7 @@
-This code takes as input a query string (ex: aa,abc,bc). Split it by comma and put the result in a list and  comare it using the class SparseArray in the SparseArray.py file  to an 
 
-environment variable called STRINGS (ex :aa,abc,bd), determine how many times the items of the query strings occurs in the list of STRINGS . Return a python dictionary of the results.
+This code takes as input a query string (ex: aa,abc,bc) . Split it by comma and put the result into a list and  compare it using the class SparseArray from the SparseArray.py file  to 
+an environment variable called STRINGS (ex :aa,abc,bd) then determine how many times the items of the query strings occurs in the list of STRINGS . Return a python dictionary of the 
+results.
 
 Example:
 
